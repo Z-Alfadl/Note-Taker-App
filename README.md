@@ -12,7 +12,9 @@ This is a deployed application..
 
 ## Usage
 When a user creates a note, they are able to save the notes to a db and view all notes saved on the left-hand side.
-![screenshot of application](./Assets/Deploy)
+
+![screenshot of application](./Assets/Deploy.png)
+
 ## Questions
 For any questions you can reach out to me at:
 
